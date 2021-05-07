@@ -1,22 +1,24 @@
-Σε αυτόν τον φάκελο υπάρχουν τα παραδοτέα της πρώτης εργασίας
-για το μάθημα Προσομοίωση και Μοντελοποίηση Δυναμικών Συστημάτων.
+This folder holds the files for the first assignment of the class.
 
-Συγκεκριμένα:
+Assignment Description:
+- Linear Parameterization
+- Unknown Parameters Estimation
+- Least Squares Method
+on two systems : a) Mass-Spring-Dumper System  b) MIMO 2-in/2-out RLC circuit System
 
-- Main_1_1.m     	περιέχει τον κώδικα για το 1ο Θέμα
-- msdSyst.m  		περιέχει την συνάρτηση που περιγράφει το σύστημά μας
-			που τρέχει μέσα στην ode45 για το 2ο Θέμα
+Files:
 
-- Main_1_2.m     	περιέχει τον κώδικα για το 2ο Θέμα
-- rlcSyst.m  		περιέχει την συνάρτηση που περιγράφει το σύστημά μας
-			που τρέχει μέσα στην ode45 για το 2ο Θέμα
+- Main_1_1.m     	: Main MATLAB code for MSD system
+- msdSyst.m  		: Odefun describing the MSD system for ode45 
 
-- KavelidisFrantzis_Dimitrios_9351_Assignment1.pdf
-Περιέχει την αναφορά με την ανάλυση, τα διαγράμματα και τα σχόλια
+- Main_1_2.m     	: Main MATLAB code for RLC system
+- rlcSyst.m  		: Odefun describing the RLC system for ode45
 
-- Ex1.slx 		το σύστημα από το 1ο Θέμα σε προσομοίωση στο Simulink
-- ScriptEx1Simulink.m   περιέχει ένα μικρό script που δίνει αρχικές τιμές
-			στις παραμέτρους και τρέχει την προσομοίωση στο Simulink
+- Assignment1_Kavelidis.pdf : Report with the analysis, diagrams, comments
 
-- v.p 			δοσμένη από την εκφώνηση συνάρτηση που παράγει
-			τις μετρήσεις των δύο τάσεων στο 2ο Θέμα
+- Ex1.slx 		: MSD system on Simulink
+- ScriptEx1Simulink.m   : script for running Ex1.slx on Simulink
+
+- v.p 			: Given function providing the measurements of the voltages on the outputs on the RLC system
+
+Kavelidis Frantzis Dimitris									10/4/2020
