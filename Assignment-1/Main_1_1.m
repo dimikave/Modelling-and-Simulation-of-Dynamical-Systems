@@ -1,4 +1,4 @@
-% SYSTEMS MODELING AND SIMULATION
+%% SYSTEMS MODELING AND SIMULATION
 % Assignment 1 - Summer Semester 2020/2021
 % Kavelidis Frantzis Dimitrios - AEM 9351 - kavelids@ece.auth.gr - ECE AUTH
 
