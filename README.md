@@ -8,6 +8,9 @@ The first part refers to linear parameterization and unknown parameter estimatio
 ## Status of the project
 There are more projects expected to come, this repo is active.
 
+## Code
+MATLAB R2018a version. Using a different version, you may need to customize some commands.
+
 ## Support - Contact
 Reach out to me:
 - dimitris.kave@gmail.com
