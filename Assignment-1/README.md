@@ -1,12 +1,14 @@
-This folder holds the files for the first assignment of the class.
+----------
+# Assignment 1
+----------
 
-Assignment Description:
+## Assignment Description:
 - Linear Parameterization
 - Unknown Parameters Estimation
 - Least Squares Method
 on two systems : a) Mass-Spring-Dumper System  b) MIMO 2-in/2-out RLC circuit System
 
-Files:
+# Files:
 
 - Main_1_1.m     	: Main MATLAB code for MSD system
 - msdSyst.m  		: Odefun describing the MSD system for ode45 
