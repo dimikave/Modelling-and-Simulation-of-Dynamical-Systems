@@ -8,7 +8,7 @@
 - Least Squares Method
 on two systems : a) Mass-Spring-Dumper System  b) MIMO 2-in/2-out RLC circuit System
 
-# Files:
+## Files:
 
 - Main_1_1.m     	: Main MATLAB code for MSD system
 - msdSyst.m  		: Odefun describing the MSD system for ode45 
