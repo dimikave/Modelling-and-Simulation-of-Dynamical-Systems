@@ -9,7 +9,7 @@ The first part refers to linear parameterization and unknown parameter estimatio
 The second part is the on-line (real-time) estimation of unknown parameters. The Gradient Method and Lyapunov Method (Both Parallel and Series-Parallel methods) are used.
 
 ## Status of the project
-There are more projects expected to come, this repo is active.
+As of the completion of the project, it will probably be modified in case of more research in the field, but in any case it will not be maintained. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
 
 ## Code
 MATLAB R2018a version. Using a different version, you may need to customize some commands.
